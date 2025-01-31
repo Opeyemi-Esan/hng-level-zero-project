@@ -1,0 +1,11 @@
+C:\Users\HP PC\source\repos\HngLevelZeroProject\HngLevelZeroProject\obj\Release\net6.0\PubTmp\Out\HngLevelZeroProject.exe
+C:\Users\HP PC\source\repos\HngLevelZeroProject\HngLevelZeroProject\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\HP PC\source\repos\HngLevelZeroProject\HngLevelZeroProject\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\HP PC\source\repos\HngLevelZeroProject\HngLevelZeroProject\obj\Release\net6.0\PubTmp\Out\HngLevelZeroProject.dll
+C:\Users\HP PC\source\repos\HngLevelZeroProject\HngLevelZeroProject\obj\Release\net6.0\PubTmp\Out\HngLevelZeroProject.deps.json
+C:\Users\HP PC\source\repos\HngLevelZeroProject\HngLevelZeroProject\obj\Release\net6.0\PubTmp\Out\HngLevelZeroProject.runtimeconfig.json
+C:\Users\HP PC\source\repos\HngLevelZeroProject\HngLevelZeroProject\obj\Release\net6.0\PubTmp\Out\HngLevelZeroProject.pdb
+C:\Users\HP PC\source\repos\HngLevelZeroProject\HngLevelZeroProject\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\HP PC\source\repos\HngLevelZeroProject\HngLevelZeroProject\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP PC\source\repos\HngLevelZeroProject\HngLevelZeroProject\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP PC\source\repos\HngLevelZeroProject\HngLevelZeroProject\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
