@@ -33,7 +33,7 @@ Ensure you have the following installed:
    dotnet run
 
 4. Access the API documentation via Swagger:
-   http://localhost:5000/swagger
+   https://localhost:7192/swagger/index.html
 
 
 

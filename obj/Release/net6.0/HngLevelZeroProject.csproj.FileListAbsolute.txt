@@ -30,3 +30,4 @@ C:\Users\HP PC\source\repos\HngLevelZeroProject\HngLevelZeroProject\obj\Release\
 C:\Users\HP PC\source\repos\HngLevelZeroProject\HngLevelZeroProject\obj\Release\net6.0\HngLevelZeroProject.pdb
 C:\Users\HP PC\source\repos\HngLevelZeroProject\HngLevelZeroProject\obj\Release\net6.0\HngLevelZeroProject.genruntimeconfig.cache
 C:\Users\HP PC\source\repos\HngLevelZeroProject\HngLevelZeroProject\obj\Release\net6.0\ref\HngLevelZeroProject.dll
+C:\Users\HP PC\source\repos\HngLevelZeroProject\HngLevelZeroProject\obj\Release\net6.0\HngLevelZeroProject.sourcelink.json
